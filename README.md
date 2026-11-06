@@ -1,2 +1,5 @@
-# cakeway
-Cake Way, Ulikkal — demo website by Futureyes Films
+# Cake Way, Ulikkal
+
+Demo website by Futureyes Films.
+
+Live: https://shifinshajahan.github.io/cakeway/
